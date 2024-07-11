@@ -13,7 +13,8 @@
       And the user clicks the continue
       And the user click the finish
       And the user click on backtohome
-      
+      And the user click on the kaiors page
+      And the user click  on the automation Testing page
       Examples:
       |username||password||firstname||secondname||postalcode|
       |standard_user||secret_sauce||abc||xyz||abcdee|

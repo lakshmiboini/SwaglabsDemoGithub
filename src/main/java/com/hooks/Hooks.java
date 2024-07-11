@@ -35,10 +35,10 @@ public class Hooks extends BaseClass {
 	}
 
 	
-//	@After
-//	public void tearDown() {
-//		driver.quit();
-//	}
+	@After
+	public void tearDown() {
+		driver.quit();
+	}
 
 	public void url() {
 		driver.get(url);

@@ -1,0 +1,1066 @@
+2023-08-29 11:27:13,002 - com.utils.CreateLog -INFO - window maximized
+2023-08-29 11:27:13,300 - com.utils.CreateLog -INFO - username is entered
+2023-08-29 11:27:13,510 - com.utils.CreateLog -INFO - password entered
+2023-08-29 11:27:13,797 - com.utils.CreateLog -INFO - login sucessfully
+2023-08-29 11:27:13,990 - com.utils.CreateLog -INFO - select the product
+2023-08-29 11:27:14,168 - com.utils.CreateLog -INFO - product added to cart
+2023-08-29 11:27:14,329 - com.utils.CreateLog -INFO - cartpage opened
+2023-08-29 11:27:14,626 - com.utils.CreateLog -INFO - shipping first name entered
+2023-08-29 11:27:14,786 - com.utils.CreateLog -INFO - shipping last name entered
+2023-08-29 11:27:14,941 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-08-29 11:27:15,086 - com.utils.CreateLog -INFO - shipping address completed
+2023-08-29 11:27:15,218 - com.utils.CreateLog -INFO - order finished
+2023-08-29 11:27:15,368 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-08-29 11:27:15,484 - com.utils.CreateLog -INFO - menu button clicked
+2023-08-29 11:27:15,622 - com.utils.CreateLog -INFO - logout sucessfully
+2023-08-29 15:16:15,088 - com.utils.CreateLog -INFO - window maximized
+2023-08-29 15:16:15,322 - com.utils.CreateLog -INFO - username is entered
+2023-08-29 15:16:15,485 - com.utils.CreateLog -INFO - password entered
+2023-08-29 15:16:15,681 - com.utils.CreateLog -INFO - login sucessfully
+2023-08-29 15:16:15,808 - com.utils.CreateLog -INFO - select the product
+2023-08-29 15:16:15,921 - com.utils.CreateLog -INFO - product added to cart
+2023-08-29 15:16:16,041 - com.utils.CreateLog -INFO - cartpage opened
+2023-08-29 15:16:16,261 - com.utils.CreateLog -INFO - shipping first name entered
+2023-08-29 15:16:16,389 - com.utils.CreateLog -INFO - shipping last name entered
+2023-08-29 15:16:16,541 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-08-29 15:16:16,672 - com.utils.CreateLog -INFO - shipping address completed
+2023-08-29 15:16:16,772 - com.utils.CreateLog -INFO - order finished
+2023-08-29 15:16:16,887 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-08-29 15:16:16,975 - com.utils.CreateLog -INFO - menu button clicked
+2023-08-29 15:16:17,072 - com.utils.CreateLog -INFO - logout sucessfully
+2023-08-30 09:51:53,086 - com.utils.CreateLog -INFO - window maximized
+2023-08-30 09:51:53,954 - com.utils.CreateLog -INFO - username is entered
+2023-08-30 09:51:54,183 - com.utils.CreateLog -INFO - password entered
+2023-08-30 09:51:54,898 - com.utils.CreateLog -INFO - login sucessfully
+2023-08-30 09:51:55,683 - com.utils.CreateLog -INFO - select the product
+2023-08-30 09:51:55,954 - com.utils.CreateLog -INFO - product added to cart
+2023-08-30 09:51:56,235 - com.utils.CreateLog -INFO - cartpage opened
+2023-08-30 09:51:56,744 - com.utils.CreateLog -INFO - shipping first name entered
+2023-08-30 09:51:57,009 - com.utils.CreateLog -INFO - shipping last name entered
+2023-08-30 09:51:57,273 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-08-30 09:51:57,479 - com.utils.CreateLog -INFO - shipping address completed
+2023-08-30 09:51:57,647 - com.utils.CreateLog -INFO - order finished
+2023-08-30 09:51:57,840 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-08-30 09:51:57,987 - com.utils.CreateLog -INFO - menu button clicked
+2023-08-30 09:51:58,130 - com.utils.CreateLog -INFO - logout sucessfully
+2023-08-30 13:36:36,361 - com.utils.CreateLog -INFO - window maximized
+2023-08-30 13:36:36,674 - com.utils.CreateLog -INFO - username is entered
+2023-08-30 13:36:36,843 - com.utils.CreateLog -INFO - password entered
+2023-08-30 13:36:37,251 - com.utils.CreateLog -INFO - login sucessfully
+2023-08-30 13:36:37,405 - com.utils.CreateLog -INFO - select the product
+2023-08-30 13:36:37,722 - com.utils.CreateLog -INFO - product added to cart
+2023-08-30 13:36:37,885 - com.utils.CreateLog -INFO - cartpage opened
+2023-08-30 13:36:38,491 - com.utils.CreateLog -INFO - shipping first name entered
+2023-08-30 13:36:38,635 - com.utils.CreateLog -INFO - shipping last name entered
+2023-08-30 13:36:38,770 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-08-30 13:36:38,918 - com.utils.CreateLog -INFO - shipping address completed
+2023-08-30 13:36:39,062 - com.utils.CreateLog -INFO - order finished
+2023-08-30 13:36:39,209 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-08-30 13:36:39,336 - com.utils.CreateLog -INFO - menu button clicked
+2023-08-30 13:36:39,460 - com.utils.CreateLog -INFO - logout sucessfully
+2023-09-06 12:10:35,602 - com.utils.CreateLog -INFO - window maximized
+2023-09-06 12:10:35,721 - com.utils.CreateLog -INFO - username is entered
+2023-09-06 12:10:35,816 - com.utils.CreateLog -INFO - password entered
+2023-09-06 12:10:35,979 - com.utils.CreateLog -INFO - login sucessfully
+2023-09-06 12:10:36,052 - com.utils.CreateLog -INFO - select the product
+2023-09-06 12:10:36,127 - com.utils.CreateLog -INFO - product added to cart
+2023-09-06 12:10:36,187 - com.utils.CreateLog -INFO - cartpage opened
+2023-09-06 12:10:36,316 - com.utils.CreateLog -INFO - shipping first name entered
+2023-09-06 12:10:36,456 - com.utils.CreateLog -INFO - shipping last name entered
+2023-09-06 12:10:36,585 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-09-06 12:10:36,680 - com.utils.CreateLog -INFO - shipping address completed
+2023-09-06 12:10:36,775 - com.utils.CreateLog -INFO - order finished
+2023-09-06 12:10:36,868 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-09-06 12:10:36,934 - com.utils.CreateLog -INFO - menu button clicked
+2023-09-06 15:25:06,915 - com.utils.CreateLog -INFO - window maximized
+2023-09-06 15:25:07,061 - com.utils.CreateLog -INFO - username is entered
+2023-09-06 15:25:07,150 - com.utils.CreateLog -INFO - password entered
+2023-09-06 15:25:07,259 - com.utils.CreateLog -INFO - login sucessfully
+2023-09-06 15:25:07,331 - com.utils.CreateLog -INFO - select the product
+2023-09-06 15:25:07,394 - com.utils.CreateLog -INFO - product added to cart
+2023-09-06 15:25:07,453 - com.utils.CreateLog -INFO - cartpage opened
+2023-09-06 15:25:07,566 - com.utils.CreateLog -INFO - shipping first name entered
+2023-09-06 15:25:07,634 - com.utils.CreateLog -INFO - shipping last name entered
+2023-09-06 15:25:07,705 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-09-06 15:25:07,767 - com.utils.CreateLog -INFO - shipping address completed
+2023-09-06 15:25:07,824 - com.utils.CreateLog -INFO - order finished
+2023-09-06 15:25:07,896 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-09-06 15:25:07,949 - com.utils.CreateLog -INFO - menu button clicked
+2023-09-06 15:25:49,241 - com.utils.CreateLog -INFO - window maximized
+2023-09-06 15:25:49,380 - com.utils.CreateLog -INFO - username is entered
+2023-09-06 15:25:49,457 - com.utils.CreateLog -INFO - password entered
+2023-09-06 15:25:49,553 - com.utils.CreateLog -INFO - login sucessfully
+2023-09-06 15:25:49,621 - com.utils.CreateLog -INFO - select the product
+2023-09-06 15:25:49,681 - com.utils.CreateLog -INFO - product added to cart
+2023-09-06 15:25:49,738 - com.utils.CreateLog -INFO - cartpage opened
+2023-09-06 15:25:49,833 - com.utils.CreateLog -INFO - shipping first name entered
+2023-09-06 15:25:49,916 - com.utils.CreateLog -INFO - shipping last name entered
+2023-09-06 15:25:50,002 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-09-06 15:25:50,078 - com.utils.CreateLog -INFO - shipping address completed
+2023-09-06 15:25:50,144 - com.utils.CreateLog -INFO - order finished
+2023-09-06 15:25:50,216 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-09-06 15:25:50,278 - com.utils.CreateLog -INFO - menu button clicked
+2023-09-14 14:32:50,499 - com.utils.CreateLog -INFO - window maximized
+2023-09-14 14:32:50,647 - com.utils.CreateLog -INFO - username is entered
+2023-09-14 14:32:50,737 - com.utils.CreateLog -INFO - password entered
+2023-09-14 14:32:50,857 - com.utils.CreateLog -INFO - login sucessfully
+2023-09-14 14:32:50,945 - com.utils.CreateLog -INFO - select the product
+2023-09-14 14:32:51,033 - com.utils.CreateLog -INFO - product added to cart
+2023-09-14 14:32:51,095 - com.utils.CreateLog -INFO - cartpage opened
+2023-09-14 14:32:51,233 - com.utils.CreateLog -INFO - shipping first name entered
+2023-09-14 14:32:51,305 - com.utils.CreateLog -INFO - shipping last name entered
+2023-09-14 14:32:51,391 - com.utils.CreateLog -INFO - shipping postal address entered
+2023-09-14 14:32:51,462 - com.utils.CreateLog -INFO - shipping address completed
+2023-09-14 14:32:51,529 - com.utils.CreateLog -INFO - order finished
+2023-09-14 14:32:51,596 - com.utils.CreateLog -INFO - navigation back to homepage
+2023-09-14 14:32:51,661 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-23 11:30:29,463 - com.utils.CreateLog -INFO - window maximized
+2024-04-23 11:47:29,065 - com.utils.CreateLog -INFO - window maximized
+2024-04-23 11:47:29,241 - com.utils.CreateLog -INFO - username is entered
+2024-04-23 11:47:29,336 - com.utils.CreateLog -INFO - password entered
+2024-04-23 11:47:29,468 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-23 11:47:29,557 - com.utils.CreateLog -INFO - select the product
+2024-04-23 11:48:04,880 - com.utils.CreateLog -INFO - window maximized
+2024-04-23 11:48:05,027 - com.utils.CreateLog -INFO - username is entered
+2024-04-23 11:48:05,132 - com.utils.CreateLog -INFO - password entered
+2024-04-23 11:48:05,249 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-23 11:48:05,352 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:24:49,852 - com.utils.CreateLog -INFO - window maximized
+2024-04-24 10:24:50,046 - com.utils.CreateLog -INFO - username is entered
+2024-04-24 10:24:50,134 - com.utils.CreateLog -INFO - password entered
+2024-04-24 10:24:50,251 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-24 10:24:50,360 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:24:50,436 - com.utils.CreateLog -INFO - product added to cart
+2024-04-24 10:24:50,494 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-24 10:24:50,627 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-24 10:24:50,693 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-24 10:24:50,781 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-24 10:24:50,893 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-24 10:24:50,971 - com.utils.CreateLog -INFO - order finished
+2024-04-24 10:24:51,048 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-24 10:24:51,114 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-24 10:31:04,368 - com.utils.CreateLog -INFO - window maximized
+2024-04-24 10:31:04,520 - com.utils.CreateLog -INFO - username is entered
+2024-04-24 10:31:04,616 - com.utils.CreateLog -INFO - password entered
+2024-04-24 10:31:04,727 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-24 10:31:04,812 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:31:04,894 - com.utils.CreateLog -INFO - product added to cart
+2024-04-24 10:31:04,946 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-24 10:31:05,070 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-24 10:31:05,141 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-24 10:31:05,220 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-24 10:31:05,296 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-24 10:31:05,394 - com.utils.CreateLog -INFO - order finished
+2024-04-24 10:31:05,463 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-24 10:31:05,520 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-24 10:31:44,722 - com.utils.CreateLog -INFO - window maximized
+2024-04-24 10:31:44,870 - com.utils.CreateLog -INFO - username is entered
+2024-04-24 10:31:44,969 - com.utils.CreateLog -INFO - password entered
+2024-04-24 10:31:45,076 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-24 10:31:45,170 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:31:45,247 - com.utils.CreateLog -INFO - product added to cart
+2024-04-24 10:31:45,306 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-24 10:31:45,429 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-24 10:31:45,499 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-24 10:31:45,574 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-24 10:31:45,642 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-24 10:31:45,700 - com.utils.CreateLog -INFO - order finished
+2024-04-24 10:31:45,764 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-24 10:31:45,826 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-24 10:34:16,122 - com.utils.CreateLog -INFO - window maximized
+2024-04-24 10:34:35,808 - com.utils.CreateLog -INFO - username is entered
+2024-04-24 10:34:38,936 - com.utils.CreateLog -INFO - password entered
+2024-04-24 10:34:41,869 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-24 10:35:18,437 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:35:41,984 - com.utils.CreateLog -INFO - product added to cart
+2024-04-24 10:35:52,075 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-24 10:36:09,297 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-24 10:36:40,319 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-24 10:36:53,906 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-24 10:37:25,863 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-24 10:37:51,545 - com.utils.CreateLog -INFO - order finished
+2024-04-24 10:38:05,053 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-24 10:38:31,856 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-24 10:38:51,730 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-24 10:39:33,649 - com.utils.CreateLog -INFO - window maximized
+2024-04-24 10:39:33,802 - com.utils.CreateLog -INFO - username is entered
+2024-04-24 10:39:33,915 - com.utils.CreateLog -INFO - password entered
+2024-04-24 10:39:34,033 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-24 10:39:34,121 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:39:34,203 - com.utils.CreateLog -INFO - product added to cart
+2024-04-24 10:39:34,260 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-24 10:39:34,379 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-24 10:39:34,447 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-24 10:39:34,522 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-24 10:39:34,590 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-24 10:39:34,655 - com.utils.CreateLog -INFO - order finished
+2024-04-24 10:39:34,726 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-24 10:39:34,786 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-24 10:43:15,642 - com.utils.CreateLog -INFO - window maximized
+2024-04-24 10:43:15,787 - com.utils.CreateLog -INFO - username is entered
+2024-04-24 10:43:15,899 - com.utils.CreateLog -INFO - password entered
+2024-04-24 10:43:16,004 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-24 10:43:16,096 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:43:16,183 - com.utils.CreateLog -INFO - product added to cart
+2024-04-24 10:43:16,236 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-24 10:43:16,359 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-24 10:43:16,427 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-24 10:43:16,502 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-24 10:43:16,572 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-24 10:43:16,637 - com.utils.CreateLog -INFO - order finished
+2024-04-24 10:43:16,706 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-24 10:43:16,770 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-24 10:43:19,860 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-24 10:43:35,669 - com.utils.CreateLog -INFO - window maximized
+2024-04-24 10:43:35,813 - com.utils.CreateLog -INFO - username is entered
+2024-04-24 10:43:35,914 - com.utils.CreateLog -INFO - password entered
+2024-04-24 10:43:36,013 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-24 10:43:36,101 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:43:36,184 - com.utils.CreateLog -INFO - product added to cart
+2024-04-24 10:43:36,238 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-24 10:43:36,358 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-24 10:43:36,436 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-24 10:43:36,509 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-24 10:43:36,584 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-24 10:43:36,653 - com.utils.CreateLog -INFO - order finished
+2024-04-24 10:43:36,720 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-24 10:43:36,783 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-24 10:43:39,881 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-24 10:52:04,317 - com.utils.CreateLog -INFO - window maximized
+2024-04-24 10:52:04,480 - com.utils.CreateLog -INFO - username is entered
+2024-04-24 10:52:04,584 - com.utils.CreateLog -INFO - password entered
+2024-04-24 10:52:04,693 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-24 10:52:04,790 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:52:04,873 - com.utils.CreateLog -INFO - product added to cart
+2024-04-24 10:52:04,932 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-24 10:52:05,096 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-24 10:52:05,181 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-24 10:52:05,277 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-24 10:52:05,386 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-24 10:52:05,491 - com.utils.CreateLog -INFO - order finished
+2024-04-24 10:52:05,595 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-24 10:52:05,704 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-24 10:52:07,263 - com.utils.CreateLog -INFO - window maximized
+2024-04-24 10:52:07,440 - com.utils.CreateLog -INFO - username is entered
+2024-04-24 10:52:07,618 - com.utils.CreateLog -INFO - password entered
+2024-04-24 10:52:07,800 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-24 10:52:07,962 - com.utils.CreateLog -INFO - select the product
+2024-04-24 10:52:08,095 - com.utils.CreateLog -INFO - product added to cart
+2024-04-24 10:52:08,166 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-24 10:52:08,366 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-24 10:52:08,463 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-24 10:52:08,577 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-24 10:52:08,666 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-24 10:52:08,768 - com.utils.CreateLog -INFO - order finished
+2024-04-24 10:52:08,832 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-24 10:52:08,872 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-24 10:52:08,964 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-24 10:52:12,068 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-26 11:33:30,460 - com.utils.CreateLog -INFO - window maximized
+2024-04-26 11:33:30,671 - com.utils.CreateLog -INFO - username is entered
+2024-04-26 11:33:30,873 - com.utils.CreateLog -INFO - password entered
+2024-04-26 11:33:31,051 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-26 11:33:31,171 - com.utils.CreateLog -INFO - select the product
+2024-04-26 11:33:31,293 - com.utils.CreateLog -INFO - product added to cart
+2024-04-26 11:33:31,425 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-26 11:33:31,685 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-26 11:33:31,882 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-26 11:33:32,077 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-26 11:33:32,254 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-26 11:33:32,373 - com.utils.CreateLog -INFO - order finished
+2024-04-26 11:33:32,524 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-26 11:33:32,665 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-26 11:33:35,802 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-26 11:50:51,465 - com.utils.CreateLog -INFO - window maximized
+2024-04-26 11:50:51,606 - com.utils.CreateLog -INFO - username is entered
+2024-04-26 11:50:51,707 - com.utils.CreateLog -INFO - password entered
+2024-04-26 11:50:51,813 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-26 11:50:51,903 - com.utils.CreateLog -INFO - select the product
+2024-04-26 11:50:51,977 - com.utils.CreateLog -INFO - product added to cart
+2024-04-26 11:50:52,034 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-26 11:50:52,153 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-26 11:50:52,225 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-26 11:50:52,304 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-26 11:50:52,381 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-26 11:50:52,453 - com.utils.CreateLog -INFO - order finished
+2024-04-26 11:50:52,523 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-26 11:50:52,594 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-26 11:50:55,667 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-26 12:24:48,730 - com.utils.CreateLog -INFO - window maximized
+2024-04-26 12:24:48,914 - com.utils.CreateLog -INFO - username is entered
+2024-04-26 12:24:49,016 - com.utils.CreateLog -INFO - password entered
+2024-04-26 12:24:49,142 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-26 12:24:49,243 - com.utils.CreateLog -INFO - select the product
+2024-04-26 12:24:49,327 - com.utils.CreateLog -INFO - product added to cart
+2024-04-26 12:24:49,385 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-26 12:24:49,520 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-26 12:24:49,600 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-26 12:24:49,680 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-26 12:24:49,768 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-26 12:24:49,838 - com.utils.CreateLog -INFO - order finished
+2024-04-26 12:24:49,911 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-26 12:24:49,975 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-26 12:24:50,174 - com.utils.CreateLog -INFO - window maximized
+2024-04-26 12:24:50,369 - com.utils.CreateLog -INFO - username is entered
+2024-04-26 12:24:50,458 - com.utils.CreateLog -INFO - password entered
+2024-04-26 12:24:50,570 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-26 12:24:50,676 - com.utils.CreateLog -INFO - select the product
+2024-04-26 12:24:50,762 - com.utils.CreateLog -INFO - product added to cart
+2024-04-26 12:24:50,873 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-26 12:24:51,052 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-26 12:24:51,146 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-26 12:24:51,256 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-26 12:24:51,371 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-26 12:24:51,480 - com.utils.CreateLog -INFO - order finished
+2024-04-26 12:24:51,580 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-26 12:24:51,790 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-26 12:24:53,066 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-26 12:24:54,914 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-26 12:26:28,768 - com.utils.CreateLog -INFO - window maximized
+2024-04-26 12:26:28,947 - com.utils.CreateLog -INFO - username is entered
+2024-04-26 12:26:29,044 - com.utils.CreateLog -INFO - password entered
+2024-04-26 12:26:29,180 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-26 12:26:29,274 - com.utils.CreateLog -INFO - select the product
+2024-04-26 12:26:29,365 - com.utils.CreateLog -INFO - product added to cart
+2024-04-26 12:26:29,416 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-26 12:26:29,546 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-26 12:26:29,623 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-26 12:26:29,710 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-26 12:26:29,789 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-26 12:26:29,852 - com.utils.CreateLog -INFO - order finished
+2024-04-26 12:26:29,919 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-26 12:26:29,990 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-26 12:26:33,069 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-26 12:28:18,145 - com.utils.CreateLog -INFO - window maximized
+2024-04-26 12:28:18,322 - com.utils.CreateLog -INFO - username is entered
+2024-04-26 12:28:18,425 - com.utils.CreateLog -INFO - password entered
+2024-04-26 12:28:18,556 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-26 12:28:18,647 - com.utils.CreateLog -INFO - select the product
+2024-04-26 12:28:18,735 - com.utils.CreateLog -INFO - product added to cart
+2024-04-26 12:28:18,803 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-26 12:28:18,933 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-26 12:28:19,006 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-26 12:28:19,083 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-26 12:28:19,162 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-26 12:28:19,229 - com.utils.CreateLog -INFO - order finished
+2024-04-26 12:28:19,298 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-26 12:28:19,365 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-26 12:28:22,451 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-26 12:29:58,850 - com.utils.CreateLog -INFO - window maximized
+2024-04-26 12:29:58,998 - com.utils.CreateLog -INFO - username is entered
+2024-04-26 12:29:59,088 - com.utils.CreateLog -INFO - password entered
+2024-04-26 12:29:59,193 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-26 12:29:59,274 - com.utils.CreateLog -INFO - select the product
+2024-04-26 12:29:59,358 - com.utils.CreateLog -INFO - product added to cart
+2024-04-26 12:29:59,411 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-26 12:29:59,533 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-26 12:29:59,606 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-26 12:29:59,679 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-26 12:29:59,753 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-26 12:29:59,816 - com.utils.CreateLog -INFO - order finished
+2024-04-26 12:29:59,896 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-26 12:29:59,965 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-26 12:30:03,073 - com.utils.CreateLog -INFO - logout sucessfully
+2024-04-29 10:50:38,811 - com.utils.CreateLog -INFO - window maximized
+2024-04-29 10:50:38,979 - com.utils.CreateLog -INFO - username is entered
+2024-04-29 10:50:39,109 - com.utils.CreateLog -INFO - password entered
+2024-04-29 10:50:39,226 - com.utils.CreateLog -INFO - login sucessfully
+2024-04-29 10:50:39,308 - com.utils.CreateLog -INFO - select the product
+2024-04-29 10:50:39,443 - com.utils.CreateLog -INFO - product added to cart
+2024-04-29 10:50:39,504 - com.utils.CreateLog -INFO - cartpage opened
+2024-04-29 10:50:39,631 - com.utils.CreateLog -INFO - shipping first name entered
+2024-04-29 10:50:39,699 - com.utils.CreateLog -INFO - shipping last name entered
+2024-04-29 10:50:39,781 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-04-29 10:50:39,857 - com.utils.CreateLog -INFO - shipping address completed
+2024-04-29 10:50:39,932 - com.utils.CreateLog -INFO - order finished
+2024-04-29 10:50:39,997 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-04-29 10:50:40,055 - com.utils.CreateLog -INFO - menu button clicked
+2024-04-29 10:50:43,131 - com.utils.CreateLog -INFO - logout sucessfully
+2024-05-08 12:06:03,327 - com.utils.CreateLog -INFO - window maximized
+2024-05-08 12:06:03,465 - com.utils.CreateLog -INFO - username is entered
+2024-05-08 12:06:03,546 - com.utils.CreateLog -INFO - password entered
+2024-05-08 12:06:03,691 - com.utils.CreateLog -INFO - login sucessfully
+2024-05-08 12:06:03,800 - com.utils.CreateLog -INFO - select the product
+2024-05-08 12:06:03,892 - com.utils.CreateLog -INFO - product added to cart
+2024-05-08 12:06:03,963 - com.utils.CreateLog -INFO - cartpage opened
+2024-05-08 12:06:04,116 - com.utils.CreateLog -INFO - shipping first name entered
+2024-05-08 12:06:04,183 - com.utils.CreateLog -INFO - shipping last name entered
+2024-05-08 12:06:04,260 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-05-08 12:06:04,337 - com.utils.CreateLog -INFO - shipping address completed
+2024-05-08 12:06:04,406 - com.utils.CreateLog -INFO - order finished
+2024-05-08 12:06:04,482 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-05-08 12:06:04,554 - com.utils.CreateLog -INFO - menu button clicked
+2024-05-08 12:06:07,644 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-05 11:53:04,863 - com.utils.CreateLog -INFO - window maximized
+2024-07-05 11:53:42,691 - com.utils.CreateLog -INFO - window maximized
+2024-07-05 11:54:53,733 - com.utils.CreateLog -INFO - window maximized
+2024-07-05 11:54:53,903 - com.utils.CreateLog -INFO - username is entered
+2024-07-05 11:54:54,018 - com.utils.CreateLog -INFO - password entered
+2024-07-05 11:54:54,193 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-05 11:54:54,307 - com.utils.CreateLog -INFO - select the product
+2024-07-05 11:54:54,401 - com.utils.CreateLog -INFO - product added to cart
+2024-07-05 11:54:54,520 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-05 11:54:54,694 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-05 11:54:54,826 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-05 11:54:54,969 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-05 11:54:55,136 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-05 11:54:55,301 - com.utils.CreateLog -INFO - order finished
+2024-07-05 11:54:55,465 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-05 11:54:55,577 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-05 11:54:58,713 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-05 11:59:21,043 - com.utils.CreateLog -INFO - window maximized
+2024-07-05 11:59:21,210 - com.utils.CreateLog -INFO - username is entered
+2024-07-05 11:59:21,321 - com.utils.CreateLog -INFO - password entered
+2024-07-05 11:59:21,457 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-05 11:59:21,555 - com.utils.CreateLog -INFO - select the product
+2024-07-05 11:59:21,666 - com.utils.CreateLog -INFO - product added to cart
+2024-07-05 11:59:21,798 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-05 11:59:22,057 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-05 11:59:22,268 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-05 11:59:22,421 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-05 11:59:22,566 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-05 11:59:22,699 - com.utils.CreateLog -INFO - order finished
+2024-07-05 11:59:22,863 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-05 11:59:22,985 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-05 11:59:26,170 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-05 12:15:07,125 - com.utils.CreateLog -INFO - window maximized
+2024-07-05 12:15:07,297 - com.utils.CreateLog -INFO - username is entered
+2024-07-05 12:15:07,422 - com.utils.CreateLog -INFO - password entered
+2024-07-05 12:15:07,595 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-05 12:15:07,694 - com.utils.CreateLog -INFO - select the product
+2024-07-05 12:15:07,788 - com.utils.CreateLog -INFO - product added to cart
+2024-07-05 12:15:07,879 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-05 12:15:08,121 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-05 12:15:08,249 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-05 12:15:08,384 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-05 12:15:08,495 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-05 12:15:08,623 - com.utils.CreateLog -INFO - order finished
+2024-07-05 12:15:08,777 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-05 12:15:08,943 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-05 12:15:12,089 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-05 12:52:14,203 - com.utils.CreateLog -INFO - window maximized
+2024-07-05 12:52:14,370 - com.utils.CreateLog -INFO - username is entered
+2024-07-05 12:52:14,510 - com.utils.CreateLog -INFO - password entered
+2024-07-05 12:52:14,660 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-05 12:52:14,757 - com.utils.CreateLog -INFO - select the product
+2024-07-05 12:52:14,847 - com.utils.CreateLog -INFO - product added to cart
+2024-07-05 12:52:14,935 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-05 12:52:15,145 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-05 12:52:15,274 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-05 12:52:15,408 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-05 12:52:15,522 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-05 12:52:15,645 - com.utils.CreateLog -INFO - order finished
+2024-07-05 12:52:15,748 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-05 12:52:15,853 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-05 12:52:18,978 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-05 14:35:47,349 - com.utils.CreateLog -INFO - window maximized
+2024-07-05 14:35:47,517 - com.utils.CreateLog -INFO - username is entered
+2024-07-05 14:35:47,647 - com.utils.CreateLog -INFO - password entered
+2024-07-05 14:35:47,756 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-05 14:35:47,857 - com.utils.CreateLog -INFO - select the product
+2024-07-05 14:35:47,945 - com.utils.CreateLog -INFO - product added to cart
+2024-07-05 14:35:48,008 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-05 14:35:48,152 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-05 14:35:48,228 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-05 14:35:48,322 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-05 14:35:48,400 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-05 14:35:48,468 - com.utils.CreateLog -INFO - order finished
+2024-07-05 14:35:48,540 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-05 14:35:48,603 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-05 14:35:51,734 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-08 10:16:18,711 - com.utils.CreateLog -INFO - window maximized
+2024-07-08 10:16:18,860 - com.utils.CreateLog -INFO - username is entered
+2024-07-08 10:16:18,963 - com.utils.CreateLog -INFO - password entered
+2024-07-08 10:16:19,085 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-08 10:16:19,167 - com.utils.CreateLog -INFO - select the product
+2024-07-08 10:16:19,244 - com.utils.CreateLog -INFO - product added to cart
+2024-07-08 10:16:19,301 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-08 10:16:19,425 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-08 10:16:19,505 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-08 10:16:19,581 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-08 10:16:19,671 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-08 10:16:19,766 - com.utils.CreateLog -INFO - order finished
+2024-07-08 10:16:19,838 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-08 10:16:19,915 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-08 10:16:23,029 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 10:46:14,759 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 10:46:14,910 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 10:46:15,015 - com.utils.CreateLog -INFO - password entered
+2024-07-09 10:46:15,142 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 10:46:15,234 - com.utils.CreateLog -INFO - select the product
+2024-07-09 10:46:15,310 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 10:46:15,364 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 10:46:15,496 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 10:46:15,566 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 10:46:15,641 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 10:46:15,718 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 10:46:15,784 - com.utils.CreateLog -INFO - order finished
+2024-07-09 10:46:15,857 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 10:46:15,928 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 10:46:19,007 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 10:47:33,928 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 10:47:34,077 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 10:47:34,198 - com.utils.CreateLog -INFO - password entered
+2024-07-09 10:47:34,321 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 10:47:34,405 - com.utils.CreateLog -INFO - select the product
+2024-07-09 10:47:34,484 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 10:47:34,546 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 10:47:34,679 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 10:47:34,748 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 10:47:34,824 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 10:47:34,898 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 10:47:34,966 - com.utils.CreateLog -INFO - order finished
+2024-07-09 10:47:35,037 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 10:47:35,100 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 10:47:38,199 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 10:48:57,641 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 10:48:57,804 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 10:48:57,898 - com.utils.CreateLog -INFO - password entered
+2024-07-09 10:48:58,021 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 10:48:58,111 - com.utils.CreateLog -INFO - select the product
+2024-07-09 10:48:58,205 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 10:48:58,259 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 10:48:58,383 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 10:48:58,455 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 10:48:58,530 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 10:48:58,606 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 10:48:58,672 - com.utils.CreateLog -INFO - order finished
+2024-07-09 10:48:58,743 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 10:48:58,801 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 10:49:01,889 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 10:59:22,891 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 10:59:23,040 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 10:59:23,132 - com.utils.CreateLog -INFO - password entered
+2024-07-09 10:59:23,262 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 10:59:23,344 - com.utils.CreateLog -INFO - select the product
+2024-07-09 10:59:23,418 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 10:59:23,472 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 10:59:23,613 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 10:59:23,693 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 10:59:23,772 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 10:59:23,839 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 10:59:23,907 - com.utils.CreateLog -INFO - order finished
+2024-07-09 10:59:23,975 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:00:10,530 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:00:10,676 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:00:10,766 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:00:10,875 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:00:10,976 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:00:11,067 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:00:11,122 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:00:11,252 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:00:11,322 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:00:11,396 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:00:11,475 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:00:11,548 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:00:11,628 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:01:55,985 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:01:56,144 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:01:56,245 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:01:56,362 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:01:56,450 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:01:56,536 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:01:56,589 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:01:56,782 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:01:56,902 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:01:57,010 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:01:57,106 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:01:57,186 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:01:57,267 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:01:57,329 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:02:00,425 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:02:53,545 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:02:53,690 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:02:53,792 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:02:53,895 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:02:53,996 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:02:54,068 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:02:54,125 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:02:54,246 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:02:54,316 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:02:54,389 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:02:54,462 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:02:54,525 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:02:54,597 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:02:58,270 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:02:58,428 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:02:58,544 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:02:58,674 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:02:58,756 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:02:58,843 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:02:58,900 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:02:59,032 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:02:59,091 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:02:59,175 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:02:59,244 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:02:59,320 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:02:59,375 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:02:59,442 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:03:02,542 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:04:29,001 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:04:29,151 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:04:29,245 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:04:29,370 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:04:29,464 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:04:29,552 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:04:29,617 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:04:29,743 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:04:29,809 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:04:29,890 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:04:29,972 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:04:30,043 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:04:30,116 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:04:30,177 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:04:33,268 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:05:10,584 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:05:10,731 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:05:10,830 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:05:10,951 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:05:11,041 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:05:11,138 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:05:11,192 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:05:11,317 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:05:11,387 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:05:11,478 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:05:11,553 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:05:11,622 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:05:11,692 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:05:11,750 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:05:14,855 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:07:07,520 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:07:07,673 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:07:07,764 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:07:07,865 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:07:07,951 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:07:08,019 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:07:08,073 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:07:08,200 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:07:08,282 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:07:08,349 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:07:08,426 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:07:08,485 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:07:08,559 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:07:08,619 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:07:11,692 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:07:58,604 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:07:58,744 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:07:58,843 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:07:58,956 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:07:59,046 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:07:59,130 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:07:59,190 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:07:59,309 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:07:59,380 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:07:59,450 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:07:59,527 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:07:59,592 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:07:59,661 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:07:59,730 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:08:02,811 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:08:29,335 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:08:29,489 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:08:29,582 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:08:29,703 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:08:29,792 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:08:29,872 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:08:29,933 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:08:30,057 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:08:30,133 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:08:30,213 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:08:30,294 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:08:30,361 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:08:30,439 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:08:34,014 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:08:34,241 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:08:34,373 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:08:34,502 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:08:34,608 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:08:34,692 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:08:34,757 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:08:34,865 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:08:34,948 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:08:35,030 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:08:35,108 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:08:35,190 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:08:35,261 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:08:35,326 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:09:04,172 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:09:04,321 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:09:04,413 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:09:04,516 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:09:04,600 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:09:04,672 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:09:04,730 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:09:04,858 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:09:04,933 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:09:05,005 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:09:05,074 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:09:05,144 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:09:05,208 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:09:08,891 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:09:09,103 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:09:09,208 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:09:09,369 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:09:09,482 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:09:09,581 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:09:09,657 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:09:09,805 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:09:09,886 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:09:09,973 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:09:10,053 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:09:10,119 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:09:10,187 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:09:10,228 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:09:13,330 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:26:37,889 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:26:38,070 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:26:38,177 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:26:38,289 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:26:38,373 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:26:38,456 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:26:38,518 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:26:38,649 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:26:38,728 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:26:38,807 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:26:38,889 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:26:38,959 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:26:39,046 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:26:42,715 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:26:42,891 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:26:43,001 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:26:43,145 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:26:43,248 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:26:43,357 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:26:43,438 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:26:43,575 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:26:43,659 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:26:43,736 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:26:43,808 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:26:43,867 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:26:43,948 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:26:43,993 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:44:17,119 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:44:17,312 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:44:17,431 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:44:17,572 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:44:17,680 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:44:17,770 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:44:17,898 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:44:18,163 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:44:18,314 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:44:18,465 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:44:18,639 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:44:18,768 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:44:18,914 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:44:19,041 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:44:22,249 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:45:37,247 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:45:37,425 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:45:37,549 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:45:37,663 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:45:41,606 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:45:41,752 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:45:41,866 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:45:42,058 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:45:42,168 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:45:42,259 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:45:42,385 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:45:42,570 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:45:42,728 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:45:42,879 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:45:43,021 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:45:43,151 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:45:43,286 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:45:43,397 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:45:56,096 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:45:56,258 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:45:56,379 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:45:56,509 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:45:56,624 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:45:56,726 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:45:56,821 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:45:57,027 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:45:57,155 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:45:57,289 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:45:57,448 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:45:57,560 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:45:57,700 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:45:57,833 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:46:00,968 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:46:07,620 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:46:07,780 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:46:07,924 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:46:08,143 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:46:08,248 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:46:08,355 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:46:08,483 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:46:08,715 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:46:08,831 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:46:08,954 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:46:09,098 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:46:09,217 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:46:09,337 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:46:09,492 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:46:12,687 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:46:54,163 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:46:54,341 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:46:54,457 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:46:54,591 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:46:54,695 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:46:54,792 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:46:54,898 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:46:55,184 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:46:55,326 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:46:55,478 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:46:55,622 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:46:55,739 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:46:55,870 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:46:55,990 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:46:59,152 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:47:05,773 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:47:05,968 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:47:06,107 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:47:06,258 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:47:06,377 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:47:06,484 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:47:06,585 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:47:06,851 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:47:07,000 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:47:07,159 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:47:07,342 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 11:47:07,484 - com.utils.CreateLog -INFO - order finished
+2024-07-09 11:47:07,651 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 11:47:07,768 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 11:47:10,943 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 11:48:38,601 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:48:38,785 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:48:38,893 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:48:39,091 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:48:39,186 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:48:39,278 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 11:48:39,381 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 11:48:39,633 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 11:48:39,728 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 11:48:39,885 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 11:48:43,462 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:48:43,657 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:48:43,805 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:48:43,941 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 11:48:44,043 - com.utils.CreateLog -INFO - select the product
+2024-07-09 11:50:20,383 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 11:50:20,584 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 11:50:20,703 - com.utils.CreateLog -INFO - password entered
+2024-07-09 11:50:20,826 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:09:01,100 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:09:01,326 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:09:01,446 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:09:01,584 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:09:01,702 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:17:58,201 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:17:58,461 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:17:58,593 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:17:58,754 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:17:58,880 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:21:45,780 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:21:45,949 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:21:46,078 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:21:46,245 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:21:46,360 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:23:43,843 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:23:44,024 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:23:44,154 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:23:44,374 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:23:44,499 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:24:28,345 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:24:28,576 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:24:28,704 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:24:28,838 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:24:28,956 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:24:32,993 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:24:33,163 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:24:33,305 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:24:33,413 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:25:24,651 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:25:24,833 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:25:24,950 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:25:25,099 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:25:25,211 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:25:28,902 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:25:29,121 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:25:29,274 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:25:29,456 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:25:29,568 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:25:29,689 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 12:25:29,822 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 12:25:30,006 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 12:25:30,121 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 12:25:30,256 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 12:25:30,389 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 12:25:30,531 - com.utils.CreateLog -INFO - order finished
+2024-07-09 12:25:30,689 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-09 12:25:30,840 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-09 12:25:33,971 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-09 12:26:34,762 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:26:34,950 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:26:35,082 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:26:35,219 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:26:35,325 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:26:39,122 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:26:39,283 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:26:39,414 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:26:39,529 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:27:49,304 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:27:49,483 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:27:49,604 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:27:49,728 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:28:43,128 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:28:43,319 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:28:43,459 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:28:43,572 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:28:47,597 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:28:47,766 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:28:47,898 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:28:48,072 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:28:48,219 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:28:48,363 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 12:28:48,467 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 12:28:48,664 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 12:28:48,780 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 12:28:48,931 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 12:28:49,082 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-09 12:30:18,141 - com.utils.CreateLog -INFO - window maximized
+2024-07-09 12:30:18,305 - com.utils.CreateLog -INFO - username is entered
+2024-07-09 12:30:18,432 - com.utils.CreateLog -INFO - password entered
+2024-07-09 12:30:18,561 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-09 12:30:18,679 - com.utils.CreateLog -INFO - select the product
+2024-07-09 12:30:18,773 - com.utils.CreateLog -INFO - product added to cart
+2024-07-09 12:30:18,857 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-09 12:30:19,016 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-09 12:30:19,146 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-09 12:30:19,264 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-09 12:30:19,402 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-10 09:45:42,046 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 09:45:42,215 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 09:45:42,317 - com.utils.CreateLog -INFO - password entered
+2024-07-10 09:45:42,459 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 09:45:42,550 - com.utils.CreateLog -INFO - select the product
+2024-07-10 09:45:46,115 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 09:45:46,244 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 09:45:46,352 - com.utils.CreateLog -INFO - password entered
+2024-07-10 09:45:46,456 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 09:45:46,575 - com.utils.CreateLog -INFO - select the product
+2024-07-10 09:45:46,663 - com.utils.CreateLog -INFO - product added to cart
+2024-07-10 09:45:46,726 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-10 09:45:46,880 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-10 09:45:46,957 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-10 09:45:47,052 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-10 09:45:47,139 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-10 09:45:50,705 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 09:45:50,838 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 09:45:50,963 - com.utils.CreateLog -INFO - password entered
+2024-07-10 09:45:51,074 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 09:45:51,172 - com.utils.CreateLog -INFO - select the product
+2024-07-10 09:45:51,257 - com.utils.CreateLog -INFO - product added to cart
+2024-07-10 09:45:51,318 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-10 09:45:51,456 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-10 09:45:51,523 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-10 09:45:51,612 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-10 09:45:51,715 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-10 09:45:51,778 - com.utils.CreateLog -INFO - order finished
+2024-07-10 09:45:51,847 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-10 09:45:51,903 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-10 09:45:55,000 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-10 14:24:06,894 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:24:07,110 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:24:07,266 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:24:07,441 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:24:07,574 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:25:02,110 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:25:02,331 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:25:02,450 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:25:02,598 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:25:02,717 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:25:06,522 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:25:06,711 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:25:06,857 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:25:07,034 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:25:07,155 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:25:07,282 - com.utils.CreateLog -INFO - product added to cart
+2024-07-10 14:25:07,382 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-10 14:25:07,590 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-10 14:25:07,722 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-10 14:25:07,906 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-10 14:25:08,124 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-10 14:25:11,950 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:25:12,110 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:25:12,231 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:25:12,406 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:25:12,528 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:25:12,658 - com.utils.CreateLog -INFO - product added to cart
+2024-07-10 14:25:12,782 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-10 14:25:12,991 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-10 14:25:13,098 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-10 14:25:13,218 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-10 14:25:13,374 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-10 14:25:13,491 - com.utils.CreateLog -INFO - order finished
+2024-07-10 14:25:13,612 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-10 14:25:13,766 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-10 14:25:16,922 - com.utils.CreateLog -INFO - logout sucessfully
+2024-07-10 14:32:21,054 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:32:21,227 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:32:21,343 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:32:21,475 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:32:21,575 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:32:21,689 - com.utils.CreateLog -INFO - product added to cart
+2024-07-10 14:32:21,823 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-10 14:32:22,003 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-10 14:32:22,106 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-10 14:32:22,229 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-10 14:32:22,351 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-10 14:33:00,534 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:33:00,736 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:33:00,878 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:33:01,050 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:33:01,158 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:33:05,127 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:33:05,285 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:33:05,437 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:33:05,591 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:33:05,713 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:33:05,821 - com.utils.CreateLog -INFO - product added to cart
+2024-07-10 14:33:05,946 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-10 14:33:06,170 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-10 14:33:06,293 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-10 14:33:06,420 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-10 14:33:06,579 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-10 14:33:46,952 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:33:47,152 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:33:47,271 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:33:47,409 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:33:47,516 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:33:51,155 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:33:51,347 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:33:51,498 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:33:51,705 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:33:51,838 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:33:51,941 - com.utils.CreateLog -INFO - product added to cart
+2024-07-10 14:33:52,110 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-10 14:33:52,347 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-10 14:33:52,468 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-10 14:33:52,595 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-10 14:33:52,731 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-10 14:33:56,456 - com.utils.CreateLog -INFO - window maximized
+2024-07-10 14:33:56,673 - com.utils.CreateLog -INFO - username is entered
+2024-07-10 14:33:56,813 - com.utils.CreateLog -INFO - password entered
+2024-07-10 14:33:56,988 - com.utils.CreateLog -INFO - login sucessfully
+2024-07-10 14:33:57,103 - com.utils.CreateLog -INFO - select the product
+2024-07-10 14:33:57,221 - com.utils.CreateLog -INFO - product added to cart
+2024-07-10 14:33:57,340 - com.utils.CreateLog -INFO - cartpage opened
+2024-07-10 14:33:57,580 - com.utils.CreateLog -INFO - shipping first name entered
+2024-07-10 14:33:57,724 - com.utils.CreateLog -INFO - shipping last name entered
+2024-07-10 14:33:57,847 - com.utils.CreateLog -INFO - shipping postal address entered
+2024-07-10 14:33:58,006 - com.utils.CreateLog -INFO - shipping address completed
+2024-07-10 14:33:58,128 - com.utils.CreateLog -INFO - order finished
+2024-07-10 14:33:58,264 - com.utils.CreateLog -INFO - navigation back to homepage
+2024-07-10 14:33:58,384 - com.utils.CreateLog -INFO - menu button clicked
+2024-07-10 14:34:01,540 - com.utils.CreateLog -INFO - logout sucessfully

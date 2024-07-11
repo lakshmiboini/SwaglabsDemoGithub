@@ -11,8 +11,9 @@
       And the user enters the secondname "<secondname>"
       And the user enters the zipcode "<postalcode>"
       And the user clicks the continue
-      And the user click the finish
-      And the user click on backtohome
+      #And the user click the finish
+      #And the user click on backtohome
+      And user it will reamin in Continue page
       
       Examples:
       |username||password||firstname||secondname||postalcode|

@@ -23,7 +23,7 @@ public class PropertyFile {
 		}
 	}
 	public String getApplicationUrl() {
-		String url=pro.getProperty("baseUrl");
+		String url=pro.getProperty("url");
 		return url;
 	}
 	public String getApplicationEmail() {
@@ -35,7 +35,7 @@ public class PropertyFile {
 		return pass;
 	}
 	public String getBrowserName() {
-		String browser=pro.getProperty("browser_name");
+		String browser=pro.getProperty("browserName");
 		return browser;
 	}
 }

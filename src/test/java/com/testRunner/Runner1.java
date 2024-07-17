@@ -6,7 +6,7 @@ import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
-@CucumberOptions(features = ".\\Features", glue = { "com.stepdefinitions",
+@CucumberOptions(features= ".\\Features", glue = { "com.stepdefinitions",
 		"com.hooks" }, monochrome = false, tags = "@Smoke or @Regression", dryRun = false, publish = false, plugin = {
 				"pretty" })
 // plugin= {"pretty","html:test-output",
